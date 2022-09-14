@@ -6,4 +6,4 @@
 
 3. Training and Validation: python train_timenet_final.py
 
-4. Testing: python test_final.py
+4. Test: python test_final.py
